@@ -1,0 +1,251 @@
+{"logTime": "1117/124720", "correlationVector":"icxhTmbcFciC7uvcuRW3xR.2","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Passwords", "deleted":"2", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"7", "total":"7"}}
+{"logTime": "1117/124720", "correlationVector":"icxhTmbcFciC7uvcuRW3xR.3","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Device Info", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"3", "total":"3"}}
+{"logTime": "1117/124720", "correlationVector":"icxhTmbcFciC7uvcuRW3xR.4","action":"GetUpdates Response", "result":"Success", "context":Received 10 update(s). cV=icxhTmbcFciC7uvcuRW3xR.0;server=akswtt11700000y;cloudType=Consumer;environment=Prod_japaneast_prod-s01-061-apac-japaneast;migrationStage=NotStarted}
+{"logTime": "1117/124720", "correlationVector":"Ya3FdZjwrf7UKocWqYgAg4","action":"Initial GetUpdates", "result":"", "context":Reason: NEWLY_SUPPORTED_DATATYPE. cV=Ya3FdZjwrf7UKocWqYgAg4}
+{"logTime": "1117/124722", "correlationVector":"Ya3FdZjwrf7UKocWqYgAg4.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_japaneast_prod-s01-061-apac-japaneast", "migrationStage":"NotStarted", "server":"akswtt11700000v"}}
+{"logTime": "1117/124722", "correlationVector":"Ya3FdZjwrf7UKocWqYgAg4.2","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Bookmarks", "deleted":"2", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"10", "total":"10"}}
+{"logTime": "1117/124722", "correlationVector":"Ya3FdZjwrf7UKocWqYgAg4.3","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Preferences", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"28", "total":"28"}}
+{"logTime": "1117/124722", "correlationVector":"Ya3FdZjwrf7UKocWqYgAg4.4","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Autofill", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"6", "total":"6"}}
+{"logTime": "1117/124722", "correlationVector":"Ya3FdZjwrf7UKocWqYgAg4.5","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Sessions", "deleted":"203", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"203", "total":"203"}}
+{"logTime": "1117/124722", "correlationVector":"Ya3FdZjwrf7UKocWqYgAg4.6","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Edge Hub App Usage", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"3", "total":"3"}}
+{"logTime": "1117/124722", "correlationVector":"Ya3FdZjwrf7UKocWqYgAg4.7","action":"GetUpdates Response", "result":"Success", "context":Received 250 update(s). cV=Ya3FdZjwrf7UKocWqYgAg4.0;server=akswtt11700000v;cloudType=Consumer;environment=Prod_japaneast_prod-s01-061-apac-japaneast;migrationStage=NotStarted Some updates remain.}
+{"logTime": "1117/124722", "correlationVector":"XV++vXeX650cPT2eExE3ln","action":"Initial GetUpdates", "result":"", "context":Reason: NEWLY_SUPPORTED_DATATYPE. cV=XV++vXeX650cPT2eExE3ln}
+{"logTime": "1117/124723", "correlationVector":"XV++vXeX650cPT2eExE3ln.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_japaneast_prod-s01-061-apac-japaneast", "migrationStage":"NotStarted", "server":"akswtt117000023"}}
+{"logTime": "1117/124723", "correlationVector":"XV++vXeX650cPT2eExE3ln.2","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Bookmarks", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"6", "total":"6"}}
+{"logTime": "1117/124723", "correlationVector":"XV++vXeX650cPT2eExE3ln.3","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Preferences", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"6", "total":"6"}}
+{"logTime": "1117/124723", "correlationVector":"XV++vXeX650cPT2eExE3ln.4","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Autofill", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"12", "total":"12"}}
+{"logTime": "1117/124723", "correlationVector":"XV++vXeX650cPT2eExE3ln.5","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Sessions", "deleted":"163", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"172", "total":"172"}}
+{"logTime": "1117/124723", "correlationVector":"XV++vXeX650cPT2eExE3ln.6","action":"GetUpdates Response", "result":"Success", "context":Received 196 update(s). cV=XV++vXeX650cPT2eExE3ln.0;server=akswtt117000023;cloudType=Consumer;environment=Prod_japaneast_prod-s01-061-apac-japaneast;migrationStage=NotStarted}
+{"logTime": "1117/124723", "correlationVector":"eMIt2wRMU7bC9XMFtJ+gjr","action":"Initial GetUpdates", "result":"", "context":Reason: NEWLY_SUPPORTED_DATATYPE. cV=eMIt2wRMU7bC9XMFtJ+gjr}
+{"logTime": "1117/124725", "correlationVector":"eMIt2wRMU7bC9XMFtJ+gjr.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_japaneast_prod-s01-061-apac-japaneast", "migrationStage":"NotStarted", "server":"akswtt11700002h"}}
+{"logTime": "1117/124725", "correlationVector":"eMIt2wRMU7bC9XMFtJ+gjr.2","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"History", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"250", "total":"250"}}
+{"logTime": "1117/124725", "correlationVector":"eMIt2wRMU7bC9XMFtJ+gjr.3","action":"GetUpdates Response", "result":"Success", "context":Received 250 update(s). cV=eMIt2wRMU7bC9XMFtJ+gjr.0;server=akswtt11700002h;cloudType=Consumer;environment=Prod_japaneast_prod-s01-061-apac-japaneast;migrationStage=NotStarted Some updates remain.}
+{"logTime": "1117/124725", "correlationVector":"7ciUS4UFmEKhdgNryctb5F","action":"Initial GetUpdates", "result":"", "context":Reason: NEWLY_SUPPORTED_DATATYPE. cV=7ciUS4UFmEKhdgNryctb5F}
+{"logTime": "1117/124727", "correlationVector":"7ciUS4UFmEKhdgNryctb5F.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_japaneast_prod-s01-061-apac-japaneast", "migrationStage":"NotStarted", "server":"akswtt117000023"}}
+{"logTime": "1117/124727", "correlationVector":"7ciUS4UFmEKhdgNryctb5F.2","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"History", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"250", "total":"250"}}
+{"logTime": "1117/124727", "correlationVector":"7ciUS4UFmEKhdgNryctb5F.3","action":"GetUpdates Response", "result":"Success", "context":Received 250 update(s). cV=7ciUS4UFmEKhdgNryctb5F.0;server=akswtt117000023;cloudType=Consumer;environment=Prod_japaneast_prod-s01-061-apac-japaneast;migrationStage=NotStarted Some updates remain.}
+{"logTime": "1117/124727", "correlationVector":"LXwr9VpmecF4zE3/lG5ckW","action":"Initial GetUpdates", "result":"", "context":Reason: NEWLY_SUPPORTED_DATATYPE. cV=LXwr9VpmecF4zE3/lG5ckW}
+{"logTime": "1117/124730", "correlationVector":"LXwr9VpmecF4zE3/lG5ckW.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_japaneast_prod-s01-061-apac-japaneast", "migrationStage":"NotStarted", "server":"akswtt11700001d"}}
+{"logTime": "1117/124730", "correlationVector":"LXwr9VpmecF4zE3/lG5ckW.2","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"History", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"250", "total":"250"}}
+{"logTime": "1117/124730", "correlationVector":"LXwr9VpmecF4zE3/lG5ckW.3","action":"GetUpdates Response", "result":"Success", "context":Received 250 update(s). cV=LXwr9VpmecF4zE3/lG5ckW.0;server=akswtt11700001d;cloudType=Consumer;environment=Prod_japaneast_prod-s01-061-apac-japaneast;migrationStage=NotStarted Some updates remain.}
+{"logTime": "1117/124730", "correlationVector":"3MZxpmMF5nHYAh+kpPhDfw","action":"Initial GetUpdates", "result":"", "context":Reason: NEWLY_SUPPORTED_DATATYPE. cV=3MZxpmMF5nHYAh+kpPhDfw}
+{"logTime": "1117/124743", "correlationVector":"3MZxpmMF5nHYAh+kpPhDfw.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_japaneast_prod-s01-061-apac-japaneast", "migrationStage":"NotStarted", "server":"akswtt117000023"}}
+{"logTime": "1117/124743", "correlationVector":"3MZxpmMF5nHYAh+kpPhDfw.2","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"History", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"250", "total":"250"}}
+{"logTime": "1117/124743", "correlationVector":"3MZxpmMF5nHYAh+kpPhDfw.3","action":"GetUpdates Response", "result":"Success", "context":Received 250 update(s). cV=3MZxpmMF5nHYAh+kpPhDfw.0;server=akswtt117000023;cloudType=Consumer;environment=Prod_japaneast_prod-s01-061-apac-japaneast;migrationStage=NotStarted Some updates remain.}
+{"logTime": "1117/124743", "correlationVector":"5q28ArxvNpR2Xeh7UiG+jF","action":"Initial GetUpdates", "result":"", "context":Reason: NEWLY_SUPPORTED_DATATYPE. cV=5q28ArxvNpR2Xeh7UiG+jF}
+{"logTime": "1117/124754", "correlationVector":"5q28ArxvNpR2Xeh7UiG+jF.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_japaneast_prod-s01-061-apac-japaneast", "migrationStage":"NotStarted", "server":"akswtt117000023"}}
+{"logTime": "1117/124754", "correlationVector":"5q28ArxvNpR2Xeh7UiG+jF.2","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"History", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"250", "total":"250"}}
+{"logTime": "1117/124754", "correlationVector":"5q28ArxvNpR2Xeh7UiG+jF.3","action":"GetUpdates Response", "result":"Success", "context":Received 250 update(s). cV=5q28ArxvNpR2Xeh7UiG+jF.0;server=akswtt117000023;cloudType=Consumer;environment=Prod_japaneast_prod-s01-061-apac-japaneast;migrationStage=NotStarted Some updates remain.}
+{"logTime": "1117/124754", "correlationVector":"8NltBDXr2TtVnPAvc6tHmV","action":"Initial GetUpdates", "result":"", "context":Reason: NEWLY_SUPPORTED_DATATYPE. cV=8NltBDXr2TtVnPAvc6tHmV}
+{"logTime": "1117/124834", "correlationVector":"8NltBDXr2TtVnPAvc6tHmV.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_japaneast_prod-s01-061-apac-japaneast", "migrationStage":"NotStarted", "server":"akswtt11700002o"}}
+{"logTime": "1117/124834", "correlationVector":"8NltBDXr2TtVnPAvc6tHmV.2","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"History", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"31", "total":"31"}}
+{"logTime": "1117/124834", "correlationVector":"8NltBDXr2TtVnPAvc6tHmV.3","action":"GetUpdates Response", "result":"Success", "context":Received 31 update(s). cV=8NltBDXr2TtVnPAvc6tHmV.0;server=akswtt11700002o;cloudType=Consumer;environment=Prod_japaneast_prod-s01-061-apac-japaneast;migrationStage=NotStarted}
+{"logTime": "1117/124834", "correlationVector":"awNiwzkJo+WmtxHbP3j1Q4","action":"Normal GetUpdate request", "result":"", "context":cV=awNiwzkJo+WmtxHbP3j1Q4
+Nudged types: Sessions, Device Info
+Refresh requested types: Bookmarks, Preferences, Passwords, Autofill Profiles, Autofill, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, History, Saved Tab Group, WebAuthn Credentials, Edge Hub App Usage, Edge Workspace, Encryption Keys}
+{"logTime": "1117/124835", "correlationVector":"awNiwzkJo+WmtxHbP3j1Q4.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_japaneast_prod-s01-061-apac-japaneast", "migrationStage":"NotStarted", "server":"akswtt11700000p"}}
+{"logTime": "1117/124835", "correlationVector":"awNiwzkJo+WmtxHbP3j1Q4.2","action":"GetUpdates Response", "result":"Success", "context":Received 0 update(s). cV=awNiwzkJo+WmtxHbP3j1Q4.0;server=akswtt11700000p;cloudType=Consumer;environment=Prod_japaneast_prod-s01-061-apac-japaneast;migrationStage=NotStarted}
+{"logTime": "1117/124835", "correlationVector":"IkuTRSXA26r/DqzEymk8tc","action":"Commit Request", "result":"", "context":Item count: 3
+Contributing types: Sessions, Device Info}
+{"logTime": "1117/124837", "correlationVector":"IkuTRSXA26r/DqzEymk8tc.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_japaneast_prod-s01-061-apac-japaneast", "migrationStage":"NotStarted", "server":"akswtt117000017"}}
+{"logTime": "1117/124837", "correlationVector":"IkuTRSXA26r/DqzEymk8tc.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=IkuTRSXA26r/DqzEymk8tc.0;server=akswtt117000017;cloudType=Consumer;environment=Prod_japaneast_prod-s01-061-apac-japaneast;migrationStage=NotStarted}
+{"logTime": "1117/125150", "correlationVector":"r4bfPW8dqJmOMDFf/GVdfS","action":"Commit Request", "result":"", "context":Item count: 3
+Contributing types: Sessions, History}
+{"logTime": "1117/125156", "correlationVector":"r4bfPW8dqJmOMDFf/GVdfS","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "1117/125156", "correlationVector":"3buYEub2dPOBEvTddF3VPX.0","action":"Commit Response", "result":"Network error (ERR_CONNECTION_RESET)", "context":Result: Network error (ERR_CONNECTION_RESET). }
+{"logTime": "1117/125159", "correlationVector":"9lYyqk9m1VyneKNFG52jqy","action":"Commit Request", "result":"", "context":Item count: 3
+Contributing types: Sessions, History}
+{"logTime": "1117/125202", "correlationVector":"9lYyqk9m1VyneKNFG52jqy.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_japaneast_prod-s01-061-apac-japaneast", "migrationStage":"NotStarted", "server":"akswtt117000024"}}
+{"logTime": "1117/125202", "correlationVector":"9lYyqk9m1VyneKNFG52jqy.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=9lYyqk9m1VyneKNFG52jqy.0;server=akswtt117000024;cloudType=Consumer;environment=Prod_japaneast_prod-s01-061-apac-japaneast;migrationStage=NotStarted}
+{"logTime": "1117/125202", "correlationVector":"Wfajm3qVB9b+SzWB6UGmyB","action":"Normal GetUpdate request", "result":"", "context":cV=Wfajm3qVB9b+SzWB6UGmyB
+Notified types: History}
+{"logTime": "1117/125203", "correlationVector":"Wfajm3qVB9b+SzWB6UGmyB.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_japaneast_prod-s01-061-apac-japaneast", "migrationStage":"NotStarted", "server":"akswtt11700000j"}}
+{"logTime": "1117/125203", "correlationVector":"Wfajm3qVB9b+SzWB6UGmyB.2","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Sessions", "deleted":"2", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"7", "total":"7"}}
+{"logTime": "1117/125203", "correlationVector":"Wfajm3qVB9b+SzWB6UGmyB.3","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Device Info", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"1", "total":"1"}}
+{"logTime": "1117/125203", "correlationVector":"Wfajm3qVB9b+SzWB6UGmyB.4","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"History", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"3", "total":"3"}}
+{"logTime": "1117/125203", "correlationVector":"Wfajm3qVB9b+SzWB6UGmyB.5","action":"GetUpdates Response", "result":"Success", "context":Received 11 update(s). cV=Wfajm3qVB9b+SzWB6UGmyB.0;server=akswtt11700000j;cloudType=Consumer;environment=Prod_japaneast_prod-s01-061-apac-japaneast;migrationStage=NotStarted}
+{"logTime": "1117/125831", "correlationVector":"Cl7jz+ONY3CFn042DPlzCw","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/125832", "correlationVector":"Cl7jz+ONY3CFn042DPlzCw","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "1117/125832", "correlationVector":"CEZ7jZaCZEmJAodGjyFrM/.0","action":"Commit Response", "result":"Network error (ERR_CONNECTION_RESET)", "context":Result: Network error (ERR_CONNECTION_RESET). }
+{"logTime": "1117/125834", "correlationVector":"8EOKuLaT3jmh+6ETkSd2CT","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/125836", "correlationVector":"8EOKuLaT3jmh+6ETkSd2CT","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "1117/125836", "correlationVector":"JZTlOz8EH7Vhm2i9fP6+nR.0","action":"Commit Response", "result":"Network error (ERR_CONNECTION_RESET)", "context":Result: Network error (ERR_CONNECTION_RESET). }
+{"logTime": "1117/125839", "correlationVector":"eFhEkc22nDqitwEB5fWcYb","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/125840", "correlationVector":"eFhEkc22nDqitwEB5fWcYb","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "1117/125840", "correlationVector":"mX0Wef81iI7ITGnSrh5ty4.0","action":"Commit Response", "result":"Network error (ERR_CONNECTION_RESET)", "context":Result: Network error (ERR_CONNECTION_RESET). }
+{"logTime": "1117/125846", "correlationVector":"NkWJDg37XeKkGdtE8ueRZg","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/125846", "correlationVector":"NkWJDg37XeKkGdtE8ueRZg.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-065-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt00500000j"}}
+{"logTime": "1117/125846", "correlationVector":"NkWJDg37XeKkGdtE8ueRZg.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=NkWJDg37XeKkGdtE8ueRZg.0;server=akswtt00500000j;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-065-apac-southeastasia;migrationStage=NotStarted}
+{"logTime": "1117/130403", "correlationVector":"h0hNhigbwt/d6JIeLn7uGR","action":"Commit Request", "result":"", "context":Item count: 3
+Contributing types: Sessions, History}
+{"logTime": "1117/130410", "correlationVector":"h0hNhigbwt/d6JIeLn7uGR.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-065-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt005000018"}}
+{"logTime": "1117/130410", "correlationVector":"h0hNhigbwt/d6JIeLn7uGR.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=h0hNhigbwt/d6JIeLn7uGR.0;server=akswtt005000018;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-065-apac-southeastasia;migrationStage=NotStarted}
+{"logTime": "1117/130546", "correlationVector":"hXwi+W8ThMwZcA6rJjAcIE.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-064-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt005000005"}}
+{"logTime": "1117/130546", "correlationVector":"hXwi+W8ThMwZcA6rJjAcIE.2","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Encryption Keys", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"1", "total":"1"}}
+{"logTime": "1117/130555", "correlationVector":"iSX3sGoRyw1kEISz9t8Vfl","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"", "migrationStage":"", "server":""}}
+{"logTime": "1117/130555", "correlationVector":"iSX3sGoRyw1kEISz9t8Vfl.0","action":"EncryptionKeysFetcher.DownloadKeys:", "result":"Success", "context":Key count: 1, Last key timestamp: 2026-08-26T14:23:28Z}
+{"logTime": "1117/130555", "correlationVector":"iSX3sGoRyw1kEISz9t8Vfl.1","action":"EncryptionKeysManager::SetEncryptionKeys:", "result":"Success", "context":Key names[1]:[yNBnJZ59FJuFND1+y8HCd2+n25phtcvvsnoTiRP3OqzXC4EmPz6rG0/udq5SFIxCakAtMglRGTmO8pp4fEqyaQ==]}
+{"logTime": "1117/130555", "correlationVector":"iSX3sGoRyw1kEISz9t8Vfl.2","action":"EncryptionKeysManager::SetEncryptionKeysWithTimestamps:", "result":"Success", "context":Key timestamps[1]:[2026-08-26T14:23:28Z]}
+{"logTime": "1117/130555", "correlationVector":"hXwi+W8ThMwZcA6rJjAcIE","action":"Initial GetUpdates", "result":"", "context":Reason: NEW_CLIENT. cV=hXwi+W8ThMwZcA6rJjAcIE}
+{"logTime": "1117/130555", "correlationVector":"hXwi+W8ThMwZcA6rJjAcIE.3","action":"GetUpdates Response", "result":"Success", "context":Received 1 update(s). cV=hXwi+W8ThMwZcA6rJjAcIE.0;server=akswtt005000005;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-064-apac-southeastasia;migrationStage=NotStarted}
+{"logTime": "1117/130555", "correlationVector":"Bmx4N74J/fqV4hlLhH6QY6","action":"Initial GetUpdates", "result":"", "context":Reason: NEWLY_SUPPORTED_DATATYPE. cV=Bmx4N74J/fqV4hlLhH6QY6}
+{"logTime": "1117/130559", "correlationVector":"Bmx4N74J/fqV4hlLhH6QY6.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-064-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt005000005"}}
+{"logTime": "1117/130559", "correlationVector":"Bmx4N74J/fqV4hlLhH6QY6.2","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Passwords", "deleted":"2", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"7", "total":"7"}}
+{"logTime": "1117/130559", "correlationVector":"Bmx4N74J/fqV4hlLhH6QY6.3","action":"GetUpdates Response", "result":"Success", "context":Received 7 update(s). cV=Bmx4N74J/fqV4hlLhH6QY6.0;server=akswtt005000005;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-064-apac-southeastasia;migrationStage=NotStarted}
+{"logTime": "1117/130559", "correlationVector":"G5rFOKT6FyQek/COm4UQe3","action":"Normal GetUpdate request", "result":"", "context":cV=G5rFOKT6FyQek/COm4UQe3
+Nudged types: Sessions, History
+Refresh requested types: Bookmarks, Preferences, Passwords, Autofill Profiles, Autofill, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, History, Saved Tab Group, WebAuthn Credentials, Edge Hub App Usage, Edge Workspace, Encryption Keys}
+{"logTime": "1117/130601", "correlationVector":"G5rFOKT6FyQek/COm4UQe3.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-064-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt00500000a"}}
+{"logTime": "1117/130601", "correlationVector":"G5rFOKT6FyQek/COm4UQe3.2","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Sessions", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"3", "total":"3"}}
+{"logTime": "1117/130601", "correlationVector":"G5rFOKT6FyQek/COm4UQe3.3","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"History", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"2", "total":"2"}}
+{"logTime": "1117/130601", "correlationVector":"G5rFOKT6FyQek/COm4UQe3.4","action":"GetUpdates Response", "result":"Success", "context":Received 5 update(s). cV=G5rFOKT6FyQek/COm4UQe3.0;server=akswtt00500000a;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-064-apac-southeastasia;migrationStage=NotStarted}
+{"logTime": "1117/130601", "correlationVector":"9d7eYVIN661vr6dSEsUAms","action":"Commit Request", "result":"", "context":Item count: 5
+Contributing types: Sessions, History}
+{"logTime": "1117/130603", "correlationVector":"9d7eYVIN661vr6dSEsUAms.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-064-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt005000016"}}
+{"logTime": "1117/130603", "correlationVector":"9d7eYVIN661vr6dSEsUAms.3","action":"Commit.Sessions", "result":"Success", "context":{"id":"8157fc5a-aadf-4301-932a-70483d521974", "isDeleted":"true", "size":"0", "version":"1794920647527"}}
+{"logTime": "1117/130603", "correlationVector":"9d7eYVIN661vr6dSEsUAms.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=9d7eYVIN661vr6dSEsUAms.0;server=akswtt005000016;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-064-apac-southeastasia;migrationStage=NotStarted}
+{"logTime": "1117/130703", "correlationVector":"EDgTykHNmGUpT6u19Si689","action":"Commit Request", "result":"", "context":Item count: 2
+Contributing types: Sessions, History}
+{"logTime": "1117/130712", "correlationVector":"EDgTykHNmGUpT6u19Si689.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-064-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt00500000a"}}
+{"logTime": "1117/130712", "correlationVector":"EDgTykHNmGUpT6u19Si689.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=EDgTykHNmGUpT6u19Si689.0;server=akswtt00500000a;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-064-apac-southeastasia;migrationStage=NotStarted}
+{"logTime": "1117/130814", "correlationVector":"nusNg8Pddc/KvoS5DGJqlk","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/130816", "correlationVector":"nusNg8Pddc/KvoS5DGJqlk.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-064-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt005000018"}}
+{"logTime": "1117/130816", "correlationVector":"nusNg8Pddc/KvoS5DGJqlk.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=nusNg8Pddc/KvoS5DGJqlk.0;server=akswtt005000018;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-064-apac-southeastasia;migrationStage=NotStarted}
+{"logTime": "1117/131136", "correlationVector":"5+yBso0a9Zwb37GEox+seO","action":"Commit Request", "result":"", "context":Item count: 4
+Contributing types: Preferences, Sessions, History}
+{"logTime": "1117/131146", "correlationVector":"5+yBso0a9Zwb37GEox+seO.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-064-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt00500000i"}}
+{"logTime": "1117/131146", "correlationVector":"5+yBso0a9Zwb37GEox+seO.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=5+yBso0a9Zwb37GEox+seO.0;server=akswtt00500000i;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-064-apac-southeastasia;migrationStage=NotStarted}
+{"logTime": "1117/131445", "correlationVector":"2ZOqdAZA46L1hNLytxQ0cl","action":"Commit Request", "result":"", "context":Item count: 3
+Contributing types: Sessions, History}
+{"logTime": "1117/131446", "correlationVector":"2ZOqdAZA46L1hNLytxQ0cl","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "1117/131446", "correlationVector":"1trGnX5SlDoXiVlh3GpafM.0","action":"Commit Response", "result":"Network error (ERR_CONNECTION_RESET)", "context":Result: Network error (ERR_CONNECTION_RESET). }
+{"logTime": "1117/131447", "correlationVector":"KmzalhV8CdwWWvPzSj5r3l","action":"Commit Request", "result":"", "context":Item count: 3
+Contributing types: Sessions, History}
+{"logTime": "1117/131450", "correlationVector":"KmzalhV8CdwWWvPzSj5r3l.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-064-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt005000019"}}
+{"logTime": "1117/131450", "correlationVector":"KmzalhV8CdwWWvPzSj5r3l.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=KmzalhV8CdwWWvPzSj5r3l.0;server=akswtt005000019;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-064-apac-southeastasia;migrationStage=NotStarted}
+{"logTime": "1117/131600", "correlationVector":"aiRN37wlHYm3XM4My6Js0d","action":"Commit Request", "result":"", "context":Item count: 3
+Contributing types: Sessions, History}
+{"logTime": "1117/131604", "correlationVector":"aiRN37wlHYm3XM4My6Js0d.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-064-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt00500001m"}}
+{"logTime": "1117/131604", "correlationVector":"aiRN37wlHYm3XM4My6Js0d.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=aiRN37wlHYm3XM4My6Js0d.0;server=akswtt00500001m;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-064-apac-southeastasia;migrationStage=NotStarted}
+{"logTime": "1117/131805", "correlationVector":"uz/iJZIFdFLs78aJ8ZfIVI","action":"Commit Request", "result":"", "context":Item count: 3
+Contributing types: Sessions, History}
+{"logTime": "1117/131809", "correlationVector":"uz/iJZIFdFLs78aJ8ZfIVI.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-064-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt00500001r"}}
+{"logTime": "1117/131809", "correlationVector":"uz/iJZIFdFLs78aJ8ZfIVI.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=uz/iJZIFdFLs78aJ8ZfIVI.0;server=akswtt00500001r;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-064-apac-southeastasia;migrationStage=NotStarted}
+{"logTime": "1117/132745", "correlationVector":"jWFHKCVou+VZzj+eQ/qOcw","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/132747", "correlationVector":"jWFHKCVou+VZzj+eQ/qOcw.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-064-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt005000018"}}
+{"logTime": "1117/132747", "correlationVector":"jWFHKCVou+VZzj+eQ/qOcw.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=jWFHKCVou+VZzj+eQ/qOcw.0;server=akswtt005000018;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-064-apac-southeastasia;migrationStage=NotStarted}
+{"logTime": "1117/144017", "correlationVector":"mASK3I+4tlRy2E1v1amI5x","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/144027", "correlationVector":"mASK3I+4tlRy2E1v1amI5x","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "1117/144027", "correlationVector":"hl+gconYGGf4VbEkBDbQij.0","action":"Commit Response", "result":"Network error (ERR_CONNECTION_RESET)", "context":Result: Network error (ERR_CONNECTION_RESET). }
+{"logTime": "1117/144029", "correlationVector":"LYR8Ppm0QK9F35FJDIWbqY","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/144035", "correlationVector":"LYR8Ppm0QK9F35FJDIWbqY.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-064-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt005000012"}}
+{"logTime": "1117/144035", "correlationVector":"LYR8Ppm0QK9F35FJDIWbqY.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=LYR8Ppm0QK9F35FJDIWbqY.0;server=akswtt005000012;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-064-apac-southeastasia;migrationStage=NotStarted}
+{"logTime": "1117/144526", "correlationVector":"ckHLw80u9ufuXHBLYv4qJ/","action":"Commit Request", "result":"", "context":Item count: 4
+Contributing types: Preferences, Sessions, History}
+{"logTime": "1117/144611", "correlationVector":"ckHLw80u9ufuXHBLYv4qJ/","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "1117/144611", "correlationVector":"ZcwxD+4mEoD18ZhKtWRb7+.0","action":"Commit Response", "result":"Network error (ERR_CONNECTION_RESET)", "context":Result: Network error (ERR_CONNECTION_RESET). }
+{"logTime": "1117/144613", "correlationVector":"m54Zd4w0pk2tXepxZFICcB","action":"Commit Request", "result":"", "context":Item count: 4
+Contributing types: Preferences, Sessions, History}
+{"logTime": "1117/144613", "correlationVector":"m54Zd4w0pk2tXepxZFICcB","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "1117/144613", "correlationVector":"dqXGeC45p0YnWyqgYF+0S4.0","action":"Commit Response", "result":"Network error (ERR_CONNECTION_RESET)", "context":Result: Network error (ERR_CONNECTION_RESET). }
+{"logTime": "1117/144616", "correlationVector":"kgky6U02fvhFFnHOFp1IGr","action":"Commit Request", "result":"", "context":Item count: 4
+Contributing types: Preferences, Sessions, History}
+{"logTime": "1117/144617", "correlationVector":"kgky6U02fvhFFnHOFp1IGr","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "1117/144617", "correlationVector":"/6R8kn+RuWCLJUf9V371qY.0","action":"Commit Response", "result":"Network error (ERR_CONNECTION_RESET)", "context":Result: Network error (ERR_CONNECTION_RESET). }
+{"logTime": "1117/144620", "correlationVector":"Z/uclP95ehv5VrsBH7l/g1","action":"Commit Request", "result":"", "context":Item count: 4
+Contributing types: Preferences, Sessions, History}
+{"logTime": "1117/144625", "correlationVector":"Z/uclP95ehv5VrsBH7l/g1","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "1117/144625", "correlationVector":"II06oU481x1BvQZpQsYrQS.0","action":"Commit Response", "result":"Network error (ERR_CONNECTION_RESET)", "context":Result: Network error (ERR_CONNECTION_RESET). }
+{"logTime": "1117/144630", "correlationVector":"5iB2duprc3dTeUZRANuksb","action":"Commit Request", "result":"", "context":Item count: 4
+Contributing types: Preferences, Sessions, History}
+{"logTime": "1117/144639", "correlationVector":"5iB2duprc3dTeUZRANuksb.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-065-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt005000021"}}
+{"logTime": "1117/144639", "correlationVector":"5iB2duprc3dTeUZRANuksb.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=5iB2duprc3dTeUZRANuksb.0;server=akswtt005000021;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-065-apac-southeastasia;migrationStage=NotStarted}
+{"logTime": "1117/151801", "correlationVector":"O5EpbUeqTnmL49uK2VTzHV","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/151808", "correlationVector":"O5EpbUeqTnmL49uK2VTzHV","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "1117/151808", "correlationVector":"cc4oUHN9kDu3tCIjClvyGi.0","action":"Commit Response", "result":"Network error (ERR_CONNECTION_RESET)", "context":Result: Network error (ERR_CONNECTION_RESET). }
+{"logTime": "1117/151810", "correlationVector":"kyC+Cnv//xtDJVLBPRQQtN","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/151811", "correlationVector":"kyC+Cnv//xtDJVLBPRQQtN","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "1117/151811", "correlationVector":"Bs/qrakdIBCiJEHlzQdUPz.0","action":"Commit Response", "result":"Network error (ERR_CONNECTION_RESET)", "context":Result: Network error (ERR_CONNECTION_RESET). }
+{"logTime": "1117/151817", "correlationVector":"jfXOn7V03BFHkr3XXaithf","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/151823", "correlationVector":"jfXOn7V03BFHkr3XXaithf","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "1117/151823", "correlationVector":"7WWf2d4ZdEBG9z3JFv+/yk.0","action":"Commit Response", "result":"Network error (ERR_CONNECTION_RESET)", "context":Result: Network error (ERR_CONNECTION_RESET). }
+{"logTime": "1117/151833", "correlationVector":"Ojcl2blTLKadQTmr+NEjYi","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/151835", "correlationVector":"Ojcl2blTLKadQTmr+NEjYi","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "1117/151835", "correlationVector":"CPe1h4L2wSlQmN+CpKdvL6.0","action":"Commit Response", "result":"Network error (ERR_CONNECTION_RESET)", "context":Result: Network error (ERR_CONNECTION_RESET). }
+{"logTime": "1117/151859", "correlationVector":"+eilP2zRJBJplW3FZrSAj9","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/151903", "correlationVector":"+eilP2zRJBJplW3FZrSAj9","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-7"}}
+{"logTime": "1117/151903", "correlationVector":"9mqldhF4+XgSVqyNHOUr5E.0","action":"Commit Response", "result":"Network error (ERR_TIMED_OUT)", "context":Result: Network error (ERR_TIMED_OUT). }
+{"logTime": "1117/152002", "correlationVector":"zE4H78uJnvM+4UiXUAXmHE","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/152011", "correlationVector":"zE4H78uJnvM+4UiXUAXmHE.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_japaneast_prod-s01-061-apac-japaneast", "migrationStage":"NotStarted", "server":"akswtt11700001i"}}
+{"logTime": "1117/152011", "correlationVector":"zE4H78uJnvM+4UiXUAXmHE.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=zE4H78uJnvM+4UiXUAXmHE.0;server=akswtt11700001i;cloudType=Consumer;environment=Prod_japaneast_prod-s01-061-apac-japaneast;migrationStage=NotStarted}
+{"logTime": "1117/153008", "correlationVector":"UgszH78YFR0qSmzspdyJud","action":"Commit Request", "result":"", "context":Item count: 3
+Contributing types: Sessions, History}
+{"logTime": "1117/153017", "correlationVector":"UgszH78YFR0qSmzspdyJud.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_japaneast_prod-s01-061-apac-japaneast", "migrationStage":"NotStarted", "server":"akswtt11700000o"}}
+{"logTime": "1117/153017", "correlationVector":"UgszH78YFR0qSmzspdyJud.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=UgszH78YFR0qSmzspdyJud.0;server=akswtt11700000o;cloudType=Consumer;environment=Prod_japaneast_prod-s01-061-apac-japaneast;migrationStage=NotStarted}
+{"logTime": "1117/154057", "correlationVector":"V0a6Z128fcdFCSWT2B71/J","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/154108", "correlationVector":"V0a6Z128fcdFCSWT2B71/J","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "1117/154108", "correlationVector":"3JoUsyjOvPmNLikPuBaaHn.0","action":"Commit Response", "result":"Network error (ERR_CONNECTION_RESET)", "context":Result: Network error (ERR_CONNECTION_RESET). }
+{"logTime": "1117/154109", "correlationVector":"Jg0Geg2q4k/PiM5Uh222lw","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/154123", "correlationVector":"Jg0Geg2q4k/PiM5Uh222lw.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-064-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt00500001j"}}
+{"logTime": "1117/154123", "correlationVector":"Jg0Geg2q4k/PiM5Uh222lw.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=Jg0Geg2q4k/PiM5Uh222lw.0;server=akswtt00500001j;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-064-apac-southeastasia;migrationStage=NotStarted}
+{"logTime": "1117/165119", "correlationVector":"g9dNtNTXEPBZ3N+ryCUvdh","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/165122", "correlationVector":"g9dNtNTXEPBZ3N+ryCUvdh","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "1117/165122", "correlationVector":"3S3CaoqOkMBAL3D2HJj1K/.0","action":"Commit Response", "result":"Network error (ERR_CONNECTION_RESET)", "context":Result: Network error (ERR_CONNECTION_RESET). }
+{"logTime": "1117/165123", "correlationVector":"FEqYruWqV84olphLhX+W05","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/165125", "correlationVector":"FEqYruWqV84olphLhX+W05","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "1117/165125", "correlationVector":"iDf/ePDWURrljjzKmKD4il.0","action":"Commit Response", "result":"Network error (ERR_CONNECTION_RESET)", "context":Result: Network error (ERR_CONNECTION_RESET). }
+{"logTime": "1117/165127", "correlationVector":"Wakzs0QQg+FmWWVmp1XBSd","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/165130", "correlationVector":"Wakzs0QQg+FmWWVmp1XBSd.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_AUTH_ERROR", "context":{"environment":"Prod_japaneast_prod-s01-061-apac-japaneast", "migrationStage":"NotStarted", "server":"akswtt11700002e"}}
+{"logTime": "1117/165130", "correlationVector":"Wakzs0QQg+FmWWVmp1XBSd.2","action":"Commit Response", "result":"HTTP error (401)", "context":Result: HTTP error (401). cV=Wakzs0QQg+FmWWVmp1XBSd.0;server=akswtt11700002e;cloudType=Undetermined;environment=Prod_japaneast_prod-s01-061-apac-japaneast;migrationStage=NotStarted}
+{"logTime": "1117/165136", "correlationVector":"DcLoNNLqXiC1OXizuCUK0w","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/165138", "correlationVector":"DcLoNNLqXiC1OXizuCUK0w.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_japaneast_prod-s01-061-apac-japaneast", "migrationStage":"NotStarted", "server":"akswtt11700001j"}}
+{"logTime": "1117/165138", "correlationVector":"DcLoNNLqXiC1OXizuCUK0w.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=DcLoNNLqXiC1OXizuCUK0w.0;server=akswtt11700001j;cloudType=Consumer;environment=Prod_japaneast_prod-s01-061-apac-japaneast;migrationStage=NotStarted}
+{"logTime": "1117/184411", "correlationVector":"u/4566xtiC2a7VcmQAMZcn","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/184413", "correlationVector":"u/4566xtiC2a7VcmQAMZcn.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_japaneast_prod-s01-061-apac-japaneast", "migrationStage":"NotStarted", "server":"akswtt11700002a"}}
+{"logTime": "1117/184413", "correlationVector":"u/4566xtiC2a7VcmQAMZcn.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=u/4566xtiC2a7VcmQAMZcn.0;server=akswtt11700002a;cloudType=Consumer;environment=Prod_japaneast_prod-s01-061-apac-japaneast;migrationStage=NotStarted}
+{"logTime": "1117/190537", "correlationVector":"/KYohpRFXdaCG4c3xK52zS","action":"Poll GetUpdate request", "result":"", "context":cV=/KYohpRFXdaCG4c3xK52zS}
+{"logTime": "1117/190541", "correlationVector":"/KYohpRFXdaCG4c3xK52zS.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_japaneast_prod-s01-061-apac-japaneast", "migrationStage":"NotStarted", "server":"akswtt11700001t"}}
+{"logTime": "1117/190541", "correlationVector":"/KYohpRFXdaCG4c3xK52zS.2","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Preferences", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"1", "total":"1"}}
+{"logTime": "1117/190541", "correlationVector":"/KYohpRFXdaCG4c3xK52zS.3","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Sessions", "deleted":"2", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"7", "total":"7"}}
+{"logTime": "1117/190541", "correlationVector":"/KYohpRFXdaCG4c3xK52zS.4","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Device Info", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"1", "total":"1"}}
+{"logTime": "1117/190541", "correlationVector":"/KYohpRFXdaCG4c3xK52zS.5","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"History", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"16", "total":"16"}}
+{"logTime": "1117/190541", "correlationVector":"/KYohpRFXdaCG4c3xK52zS.6","action":"GetUpdates Response", "result":"Success", "context":Received 25 update(s). cV=/KYohpRFXdaCG4c3xK52zS.0;server=akswtt11700001t;cloudType=Consumer;environment=Prod_japaneast_prod-s01-061-apac-japaneast;migrationStage=NotStarted}
+{"logTime": "1117/191738", "correlationVector":"zKe+Neq5Ofdrx+WJfw3zcj","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1117/191743", "correlationVector":"zKe+Neq5Ofdrx+WJfw3zcj.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-064-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt00500000e"}}
+{"logTime": "1117/191743", "correlationVector":"zKe+Neq5Ofdrx+WJfw3zcj.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=zKe+Neq5Ofdrx+WJfw3zcj.0;server=akswtt00500000e;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-064-apac-southeastasia;migrationStage=NotStarted}
+{"logTime": "1117/193812", "correlationVector":"azYa5vaNsstU84pkr8FtXw","action":"Commit Request", "result":"", "context":Item count: 4
+Contributing types: Preferences, Sessions, History}
+{"logTime": "1117/193815", "correlationVector":"azYa5vaNsstU84pkr8FtXw","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "1117/193815", "correlationVector":"RfoSnf2SiWYC9u/VUTjqj2.0","action":"Commit Response", "result":"Network error (ERR_CONNECTION_RESET)", "context":Result: Network error (ERR_CONNECTION_RESET). }
+{"logTime": "1117/193817", "correlationVector":"XlzXoVuDmbM+fwUP2KG5kn","action":"Commit Request", "result":"", "context":Item count: 4
+Contributing types: Preferences, Sessions, History}
+{"logTime": "1117/193822", "correlationVector":"XlzXoVuDmbM+fwUP2KG5kn.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_southeastasia_prod-s01-064-apac-southeastasia", "migrationStage":"NotStarted", "server":"akswtt00500000n"}}
+{"logTime": "1117/193822", "correlationVector":"XlzXoVuDmbM+fwUP2KG5kn.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=XlzXoVuDmbM+fwUP2KG5kn.0;server=akswtt00500000n;cloudType=Consumer;environment=Prod_southeastasia_prod-s01-064-apac-southeastasia;migrationStage=NotStarted}
+{"logTime": "1117/195635", "correlationVector":"n3pacpuJ9L+hP7/euBHZSZ","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Device Info}
+{"logTime": "1117/195636", "correlationVector":"n3pacpuJ9L+hP7/euBHZSZ","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-101"}}
+{"logTime": "1117/195636", "correlationVector":"SLd7X3SIfg+uAwZnnMl7Cx.0","action":"Commit Response", "result":"Network error (ERR_CONNECTION_RESET)", "context":Result: Network error (ERR_CONNECTION_RESET). }
+{"logTime": "1117/195637", "correlationVector":"LCSkXbNjLX2lY6U2Sar2An","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Device Info}
